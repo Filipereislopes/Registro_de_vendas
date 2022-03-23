@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\bin\Debug\net6.0\Registro_de_compra.exe
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\bin\Debug\net6.0\Registro_de_compra.deps.json
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\bin\Debug\net6.0\Registro_de_compra.runtimeconfig.json
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\bin\Debug\net6.0\Registro_de_compra.dll
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\bin\Debug\net6.0\Registro_de_compra.pdb
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\obj\Debug\net6.0\Registro_de_compra.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\obj\Debug\net6.0\Registro_de_compra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\obj\Debug\net6.0\Registro_de_compra.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\obj\Debug\net6.0\Registro_de_compra.AssemblyInfo.cs
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\obj\Debug\net6.0\Registro_de_compra.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\obj\Debug\net6.0\Registro_de_compra.dll
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\obj\Debug\net6.0\refint\Registro_de_compra.dll
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\obj\Debug\net6.0\Registro_de_compra.pdb
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\obj\Debug\net6.0\Registro_de_compra.genruntimeconfig.cache
+C:\Users\USER\Desktop\progamação\C#\projetos\Registro_de_compra\Registro_de_compra\obj\Debug\net6.0\ref\Registro_de_compra.dll
